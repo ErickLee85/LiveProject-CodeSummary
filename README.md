@@ -246,5 +246,7 @@ The final stories involved finding a relevant API to my App, rendering that JSON
 ![](images/Form.png)
 ![](images/APIresults.png)
 
+## End of Project Conclusions
 
+I learned alot with this project, mainly a much deeper understand of the Django framework, and also with Azure DevOps and Agile/Srum methodologies for the logistics behind working with a dev team and also version control with branching and creating pull requests with the master. We did daily scrums and weekly recaps and they are very helpful with addressing mental road blocks and learning from each other. I really enjoyed it!
 
